@@ -44,5 +44,5 @@
 ### Connect
 
 [![X](https://img.shields.io/badge/@jcdev0-000000?style=flat&logo=x&logoColor=white)](https://x.com/jcdev0)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jcouso)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-manuel-couso/)
 [![WeDevUp](https://img.shields.io/badge/wedevup.com-FF6B6B?style=flat&logo=google-chrome&logoColor=white)](https://wedevup.com)
