@@ -14,7 +14,7 @@
 
 ### Track Record
 
-50-100 apps shipped via WeDevUp since 2020:
+100+ apps shipped via WeDevUp since 2020:
 
 - **Healthcare** — telemedicine platforms, PAC/RIS systems
 - **IoT/Bluetooth** — agro-tech tools, real-time tracking
